@@ -9,5 +9,5 @@ setup(name='multiagent',
       packages=find_packages(),
       include_package_data=True,
       zip_safe=False,
-      install_requires=['gym==0.14.0', 'numpy-stl==2.10.1']
+      install_requires=['gym==0.9.4', 'numpy-stl==2.10.1']
 )
